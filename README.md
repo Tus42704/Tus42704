@@ -1,6 +1,8 @@
 ## 
 Name: Sophia Sun
+
 Major: Biology
+
 My academic interests is center around understanding how technology can be used to enhance biological research and medical innovation.
 
 <!--
